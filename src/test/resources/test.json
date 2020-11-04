@@ -1,0 +1,14 @@
+[
+  {
+    "orderId": 6,
+    "amount": 100,
+    "currency": "USD",
+    "comment": "оплата заказа"
+  },
+  {
+    "orderId": 7,
+    "amount": 100,
+    "currency": "USD",
+    "comment": "оплата заказа"
+  }
+]
